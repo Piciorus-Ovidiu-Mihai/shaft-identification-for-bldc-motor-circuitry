@@ -1,0 +1,1 @@
+# Shaft-Identification-for-BLDC-Motor-Circuitry
