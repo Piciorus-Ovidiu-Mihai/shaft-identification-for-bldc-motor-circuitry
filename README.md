@@ -21,7 +21,7 @@ In these picture we can see the identification of the system.The gray signal is 
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/m5.PNG)<br/><br/><br/>
 
 ## Getting Started
-You can find the documentation of this project in the .rar file.You can see the data acquisition in .scv files and the code I wrote in matlab for identification of electrical circuit in .m files.
+You can find the documentation of this project in the .rar file.You can see the data acquisition in .mat files and the code I wrote in matlab for identification of BLDC motor circuitry in .m files.
   
 ## Programming Language
 * [matlab](https://www.mathworks.com/products/matlab.html)
